@@ -6,9 +6,10 @@ Welcome to the Gradient Descent for Convex Optimization repository. This MATLAB 
 
 The primary goal of this code is to showcase how gradient descent can be used to solve a specific convex optimization problem. The code aims to minimize the following objective function:
 
-```matlab
-objective = @(x) (4*x(1) - 7)^2 + (0.6*x(2) - 2)^2 + 3*(x(3) + 4)^2 + 12;
-```
+$$
+\displaystyle \text{objective} = (4x(1) - 7)^2 + (0.6x(2) - 2)^2 + 3(x(3) + 4)^2 + 12
+$$
+
 ## Method
 We employ the gradient descent method to minimize the objective function. Here's a brief overview of the process:
 
