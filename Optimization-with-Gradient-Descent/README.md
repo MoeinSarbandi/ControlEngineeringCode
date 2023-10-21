@@ -26,7 +26,8 @@ Upon running the code, you can expect the following results:
 - The optimal value of the objective function.
 Additionally, the code provides visual representations of the optimization process through plots that show the objective function value over iterations and the progression of the solution variables x1, x2, and x3.
 
-![Result Image 1](https://github.com/yourusername/yourrepository/raw/main/images/result1.png)
-![Result Image 2](https://github.com/yourusername/yourrepository/raw/main/images/result2.png)
+
+![Result Image 1](https://github.com/MoeinSarbandi/ControlEngineeringCode/blob/main/Optimization-with-Gradient-Descent/obj.png)
+![Result Image 2](https://github.com/MoeinSarbandi/ControlEngineeringCode/blob/main/Optimization-with-Gradient-Descent/xs.png)
 
 
