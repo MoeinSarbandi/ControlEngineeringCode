@@ -5,7 +5,6 @@ Welcome to the Control Engineering Code Repository. This repository contains a c
 ## Table of Contents
 
 - [Objective](#objective)
-- [Code Samples](#code-samples)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
 - [License](#license)
