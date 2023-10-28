@@ -37,7 +37,7 @@ The provided code generates several plots that vividly illustrate the step respo
 
 ## Example Plots
 
-- **Continuous-Time Step Response (Open-Loop System):** Shown in Figure ![Continuous-Time Step Response](Q3_1.eps).
+- **Continuous-Time Step Response (Open-Loop System):** Shown in Figure ![Continuous-Time Step Response](https://github.com/MoeinSarbandi/ControlEngineeringCode/blob/main/Sampling-Time-Impact-Analysis/Q3_1.eps).
 - **Continuous-Time Step Response (Closed-Loop System):** Presented in Figure ![Continuous-Time Step Response (Closed-Loop System)](Q3_2.eps).
 - **Euler Approximation Step Responses (Various Sampling Times):** Depicted in Figure ![Euler Approximation Step Responses with Different Sampling Times](Q3_3.eps).
 - **Comparison of Euler Approximations with Continuous Response:** Visualized in Figure ![Comparison of Euler Approximations with Continuous Response](Q3_4.eps).
